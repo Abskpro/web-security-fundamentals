@@ -10,7 +10,7 @@
     "bcrypt": "^1.0.3",
     "body-parser": "~1.18.0",
     "chalk": "^2.1.0",
-    "commander": "^2.11.0",
+    "commander": "^2.16.0",
     "connect-flash": "^0.1.1",
     "connect-sqlite3": "^0.9.10",
     "cookie-parser": "~1.4.3",
