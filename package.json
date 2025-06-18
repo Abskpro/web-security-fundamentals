@@ -7,7 +7,7 @@
     "test": "echo 'no tests'"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.1",
     "body-parser": "~1.18.0",
     "chalk": "^2.1.0",
     "commander": "^2.11.0",
@@ -29,10 +29,10 @@
     "lodash": "^4.17.4",
     "morgan": "~1.9.0",
     "node-exiftool": "2.3.0",
-    "nodemon": "^1.12.0",
+    "nodemon": "^2.0.0",
     "sequelize": "^4.37.6",
     "serve-favicon": "~2.4.2",
-    "sqlite3": "^3.1.10"
+    "sqlite3": "^5.0.3"
   },
   "description": "Mike Works Web Security course",
   "main": "index.js",
