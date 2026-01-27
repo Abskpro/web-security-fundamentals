@@ -7,12 +7,12 @@
     "test": "echo 'no tests'"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.1",
     "body-parser": "~1.18.0",
     "chalk": "^2.1.0",
     "commander": "^2.11.0",
     "connect-flash": "^0.1.1",
-    "connect-sqlite3": "^0.9.10",
+    "connect-sqlite3": "^0.9.12",
     "cookie-parser": "~1.4.3",
     "cookie-session": "^2.0.0-beta.3",
     "cors": "^2.8.4",
@@ -26,13 +26,13 @@
     "faker": "^4.1.0",
     "helmet": "^3.8.1",
     "helmet-csp": "^2.5.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.23",
     "morgan": "~1.9.0",
     "node-exiftool": "2.3.0",
-    "nodemon": "^1.12.0",
-    "sequelize": "^4.37.6",
+    "nodemon": "^2.0.0",
+    "sequelize": "^6.1.0",
     "serve-favicon": "~2.4.2",
-    "sqlite3": "^3.1.10"
+    "sqlite3": "^5.0.3"
   },
   "description": "Mike Works Web Security course",
   "main": "index.js",
